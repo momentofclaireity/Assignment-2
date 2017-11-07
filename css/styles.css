@@ -1,4 +1,6 @@
-body {
-    color: #ff0000;
-    background-image: url
-}
+<style>
+body {background-color: darkseagreen;}
+.new {color: darkcyan; 
+    font-family: sans-serif;}
+
+</style>
