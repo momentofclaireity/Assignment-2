@@ -2,5 +2,8 @@
 body {background-color: darkseagreen;}
 .new {color: darkcyan; 
     font-family: sans-serif;}
-
+ h1 {border-bottom: 10px solid #006699;
+     width: 500px; float:right;}
+a {}
 </style>
+     
